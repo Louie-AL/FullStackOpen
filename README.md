@@ -1,1 +1,1 @@
-Assignments for the FullStackOpen course
+Assignments for the FullStackOpen course.
